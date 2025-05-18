@@ -24,7 +24,7 @@ A beautiful Todo application built with Flask and SQLite3, featuring full CRUD f
     ```bash
     python -m venv venv
     source venv/bin/activate  
-# On Windows use `venv\Scripts\activate`
+### On Windows use `venv\Scripts\activate`
 
 3. Install dependencies:
     ```bash
